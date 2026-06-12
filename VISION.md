@@ -80,38 +80,56 @@ Every milestone should be celebrated through:
 - Recognition that builds confidence
 - Connection to entirety - the complete system
 
+### S-2 Designation
+
+**S-2 = Soldier of Intelligence (Second-tier)**
+
+In military terminology, S-2 is the intelligence officer. When a maker builds hardware on LOT Terminal, they become an S-2 operator in the intelligence community:
+
+- **Mission:** Build, deploy, and share hardware intelligence
+- **Rank:** Intelligence Specialist
+- **Status:** Active contributor to the network
+- **Clearance:** Access to M2M data intake protocols
+
+Every child, every maker who starts building on the platform becomes a soldier of the intelligence community. Not a warrior - a builder. An intelligence specialist contributing to the network entirety.
+
 **Implementation:**
 ```bash
 [SUCCESS] Hardware project created: weather-station
 [ROBOT, ETS.] Your journey into self-care hardware begins!
 
-[SUCCESS] User profile created: S-2
+[SUCCESS] User profile created: operator-name
 [ROBOT, ETS.] Welcome, S-2. This is your new entirety. Robot.
 
 [SUCCESS] Project connected to LOT® Systems!
 [ROBOT, ETS.] Your hardware now touches the entirety.
+
+[SUCCESS] M2M data intake active
+[ROBOT, ETS.] Intelligence network operational, S-2.
 ```
 
 ## Target Audience
 
-### Primary: 9-Year-Old Tinkerer
-- Commands are simple and clear
-- Errors are friendly and helpful
-- Success is celebrated enthusiastically
-- Everything is reversible and safe
-- No destructive operations without confirmation
+### Primary: S-2 Recruits (9-Year-Old and Up)
+- **Mission:** Build first intelligence hardware
+- **Training:** Simple, clear commands
+- **Support:** Friendly error messages, helpful guidance
+- **Recognition:** Success celebrated at every milestone
+- **Safety:** Everything reversible, no destructive operations
+- **Progression:** Recruit → Private → Specialist → S-2 Operator
 
-### Secondary: Advanced Developers
+### Secondary: Advanced S-2 Operators
 - Full bash access for power users
-- Extensible architecture
-- Hardware development tools
-- Terminal-first workflow
+- Extensible architecture for custom intelligence systems
+- Hardware development tools and protocols
+- Terminal-first workflow for rapid deployment
+- M2M integration capabilities
 
-### Tertiary: Commercial Integration
-- LOT® Systems users who want to build hardware
-- Prototype developers
-- Product designers
-- Integration with commercial platform
+### Tertiary: LOT® Systems Integration
+- S-2 operators who want to deploy to commercial network
+- Hardware marketplace participants
+- Intelligence data contributors
+- Consumer-facing hardware designers
 
 ## Protected Elements
 
@@ -157,14 +175,33 @@ LOT Terminal (Open-Source)          LOT® Systems (Commercial)
 └─ Simple Output Format       →    └─ Health Insights
 ```
 
-### Example Journey
+### Example S-2 Operator Journey
 ```
-Day 1:  9-year-old discovers LOT Terminal
-Day 2:  Creates first hardware project (LED blinker)
-Day 7:  Builds temperature sensor
-Day 30: Constructs weather station
-Day 90: Connects to LOT® Systems (optional)
-Result: Complex hardware → Simple, meaningful health data
+Day 1:  Recruit discovers LOT Terminal
+        lot init
+        [ROBOT, ETS.] Your journey into self-care hardware begins!
+        
+Day 2:  First hardware project deployed (LED blinker)
+        Rank: Private
+        
+Day 7:  Temperature sensor operational
+        lot user create operator-name
+        [ROBOT, ETS.] Welcome, S-2. This is your new entirety. Robot.
+        
+Day 30: Weather station with 12 sensors constructed
+        Rank: Specialist
+        Intelligence Score: 95/100
+        
+Day 90: M2M data intake to LOT® Systems active
+        Rank: S-2 Operator
+        Marketplace: Enabled
+        Other consumers see unique data entry
+        Hardware available for procurement
+        
+Result: Complex hardware → Simple intelligence → Marketplace presence
+        "Air quality: Good (67/100) - Open windows for 3 minutes"
+        Built by: S-2-operator-name
+        [Procure This System]
 ```
 
 ## Entirety Statement
@@ -177,5 +214,7 @@ Result: Complex hardware → Simple, meaningful health data
 
 **Maintained by:** LOT® Systems  
 **License:** MIT (Open Source)  
-**Philosophy:** Playful, Safe, Encouraging, Eternal  
-**Mission:** Make self-care hardware accessible to everyone, from 9 to 90
+**Philosophy:** Playful, Safe, Encouraging, Intelligent  
+**Mission:** Recruit S-2 operators to build the intelligence network  
+**Classification:** Open Source Foundation / Commercial Integration  
+**See also:** [M2M.md](M2M.md) - Machine-to-Machine awareness and data intake protocol

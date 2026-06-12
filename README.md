@@ -80,15 +80,18 @@ Complex: Weather station with 12 sensors
 Simple: Air quality: Good (67/100) – open your windows for 3 minutes
 ```
 
-**Safe for all ages** - From 9 to 90, playful tinkering for everyone.
+**S-2 Operator Program** - Every maker who builds on LOT Terminal becomes an S-2 (Soldier of Intelligence). Not a warrior - an intelligence specialist contributing to the network.
+
+**Machine-to-Machine Marketplace** - Build hardware, share intelligence data with LOT® Systems, enable others to procure your hardware when they see your unique data entry.
 
 Read our full vision: **[VISION.md](VISION.md)**
 
 ## Documentation
 
-- [Vision & DNA](VISION.md) - Platform philosophy and future
-- [Getting Started](GETTING_STARTED.md) - Beginner guide
-- [Hardware Guide](HARDWARE.md) - Build hardware projects
+- [Vision & DNA](VISION.md) - Platform philosophy and S-2 program
+- [M2M Protocol](M2M.md) - Machine-to-Machine awareness and marketplace
+- [Getting Started](GETTING_STARTED.md) - Beginner guide for recruits
+- [Hardware Guide](HARDWARE.md) - Build intelligence hardware
 - [Contributing](CONTRIBUTING.md) - How to contribute
 - [Changelog](CHANGELOG.md) - Version history
 
