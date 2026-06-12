@@ -308,7 +308,7 @@ HARDWARE_PROJECTS_ENABLED=true
 EOF
 
     log_success "User profile created: $username"
-    robot_encourage "Welcome, ${username}! Building for eternities, one profile at a time."
+    robot_encourage "Welcome, S-2. This is your new entirety. Robot."
     echo "Edit profile: lot user edit $username"
 }
 

@@ -70,26 +70,26 @@ lot systems connect  # Plugs into LOT® Systems
 
 ## ROBOT, ETS. NETWORK CONTRACT
 
-**Success Milestones Encouraged by Eternities**
+**Success Milestones Encouraged by Entirety**
 
-ETS = Eternities - long-term, eternal success thinking
+ETS = Entirety - complete, whole system thinking
 
 Every milestone should be celebrated through:
 - Encouraging terminal messages
 - Log entries marking progress
 - Recognition that builds confidence
-- Connection to something larger (eternities)
+- Connection to entirety - the complete system
 
 **Implementation:**
 ```bash
 [SUCCESS] Hardware project created: weather-station
 [ROBOT, ETS.] Your journey into self-care hardware begins!
 
-[SUCCESS] First sensor data recorded!
-[ROBOT, ETS.] Building for eternities, one sensor at a time.
+[SUCCESS] User profile created: S-2
+[ROBOT, ETS.] Welcome, S-2. This is your new entirety. Robot.
 
 [SUCCESS] Project connected to LOT® Systems!
-[ROBOT, ETS.] Your hardware now touches infinite lives.
+[ROBOT, ETS.] Your hardware now touches the entirety.
 ```
 
 ## Target Audience
@@ -167,9 +167,9 @@ Day 90: Connects to LOT® Systems (optional)
 Result: Complex hardware → Simple, meaningful health data
 ```
 
-## Eternities Statement
+## Entirety Statement
 
-> "Every sensor you build, every line of code you write, every milestone you reach - you're not just making a device. You're creating a bridge between hardware and health, between complexity and clarity, between today and eternities."
+> "Every sensor you build, every line of code you write, every milestone you reach - you're not just making a device. You're creating a bridge between hardware and health, between complexity and clarity, between fragment and entirety."
 
 **ROBOT, ETS. NETWORK CONTRACT**
 
