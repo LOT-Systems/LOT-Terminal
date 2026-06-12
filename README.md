@@ -71,8 +71,22 @@ lot help              # See all commands
 
 All data stored in `~/.lot/` (settings, logs, projects)
 
+## Philosophy
+
+**Transform complexity into simplicity** - Build complex hardware with multiple sensors and make it output simple, meaningful results:
+
+```
+Complex: Weather station with 12 sensors
+Simple: Air quality: Good (67/100) – open your windows for 3 minutes
+```
+
+**Safe for all ages** - From 9 to 90, playful tinkering for everyone.
+
+Read our full vision: **[VISION.md](VISION.md)**
+
 ## Documentation
 
+- [Vision & DNA](VISION.md) - Platform philosophy and future
 - [Getting Started](GETTING_STARTED.md) - Beginner guide
 - [Hardware Guide](HARDWARE.md) - Build hardware projects
 - [Contributing](CONTRIBUTING.md) - How to contribute
