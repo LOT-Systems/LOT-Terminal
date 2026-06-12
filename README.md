@@ -89,6 +89,7 @@ Read our full vision: **[VISION.md](VISION.md)**
 ## Documentation
 
 - [Vision & DNA](VISION.md) - Platform philosophy and S-2 program
+- [Synchronization](SYNC.md) - Sync protocol with lot-systems.com
 - [M2M Protocol](M2M.md) - Machine-to-Machine awareness and marketplace
 - [Getting Started](GETTING_STARTED.md) - Beginner guide for recruits
 - [Hardware Guide](HARDWARE.md) - Build intelligence hardware

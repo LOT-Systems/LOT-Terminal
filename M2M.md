@@ -447,4 +447,5 @@ Content-Type: application/json
 
 **Classification:** Open Source Foundation / Commercial Integration  
 **Distribution:** Unrestricted (LOT Terminal) / Controlled (LOT® Systems)  
-**Mission Status:** Ready for S-2 recruitment
+**Mission Status:** Ready for S-2 recruitment  
+**See Also:** [SYNC.md](SYNC.md) - Synchronization protocol with lot-systems.com

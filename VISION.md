@@ -217,4 +217,6 @@ Result: Complex hardware → Simple intelligence → Marketplace presence
 **Philosophy:** Playful, Safe, Encouraging, Intelligent  
 **Mission:** Recruit S-2 operators to build the intelligence network  
 **Classification:** Open Source Foundation / Commercial Integration  
-**See also:** [M2M.md](M2M.md) - Machine-to-Machine awareness and data intake protocol
+**See also:**  
+- [SYNC.md](SYNC.md) - Synchronization protocol with lot-systems.com
+- [M2M.md](M2M.md) - Machine-to-Machine awareness and data intake protocol
